@@ -1,0 +1,138 @@
+Nome;Level de Evolução;Evolução;Imagem
+Abra;25;Kadabra;https://img.pokemondb.net/artwork/abra.jpg
+Aerodactyl;0;Não evolui;https://img.pokemondb.net/artwork/aerodactyl.jpg
+Arbok;0;Não evolui;https://img.pokemondb.net/artwork/arbok.jpg
+Arcanine;0;Não evolui;https://img.pokemondb.net/artwork/arcanine.jpg
+Articuno;0;Não evolui;https://img.pokemondb.net/artwork/articuno.jpg
+Bellsprout;25;Weepinbell;https://img.pokemondb.net/artwork/bellsprout.jpg
+Bulbasaur;25;Ivysaur;https://img.pokemondb.net/artwork/bulbasaur.jpg
+Caterpie;12;Metapod;https://img.pokemondb.net/artwork/caterpie.jpg
+Chansey;0;Não evolui;https://img.pokemondb.net/artwork/chansey.jpg
+Charmander;25;Charmeleon;https://img.pokemondb.net/artwork/charmander.jpg
+Charmeleon;100;Charizard;https://img.pokemondb.net/artwork/charmeleon.jpg
+Clefable;0;Não evolui;https://img.pokemondb.net/artwork/clefable.jpg
+Clefairy;50;Clefable;https://img.pokemondb.net/artwork/clefairy.jpg
+Cloyster;0;Não evolui;https://img.pokemondb.net/artwork/cloyster.jpg
+Cubone;50;Marowak;https://img.pokemondb.net/artwork/cubone.jpg
+Dewgong;0;Não evolui;https://img.pokemondb.net/artwork/dewgong.jpg
+Diglett;50;Dugtrio;https://img.pokemondb.net/artwork/diglett.jpg
+Ditto;0;Não evolui;https://img.pokemondb.net/artwork/ditto.jpg
+Dodrio;0;Não evolui;https://img.pokemondb.net/artwork/dodrio.jpg
+Doduo;50;Dodrio;https://img.pokemondb.net/artwork/doduo.jpg
+Dragonair;100;Dragonite;https://img.pokemondb.net/artwork/dragonair.jpg
+Dratini;25;Dragonair;https://img.pokemondb.net/artwork/dratini.jpg
+Drowzee;50;Hypno;https://img.pokemondb.net/artwork/drowzee.jpg
+Dugtrio;0;Não evolui;https://img.pokemondb.net/artwork/dugtrio.jpg
+Eevee;25;Vaporeon;https://img.pokemondb.net/artwork/eevee.jpg
+Eevee;25;Jolteon;https://img.pokemondb.net/artwork/eevee.jpg
+Eevee;25;Flareon;https://img.pokemondb.net/artwork/eevee.jpg
+Ekans;50;Arbok;https://img.pokemondb.net/artwork/ekans.jpg
+Electabuzz;0;Não evolui;https://img.pokemondb.net/artwork/electabuzz.jpg
+Electrode;0;Não evolui;https://img.pokemondb.net/artwork/electrode.jpg
+Exeggcute;50;Exeggutor;https://img.pokemondb.net/artwork/exeggcute.jpg
+Exeggutor;0;Não evolui;https://img.pokemondb.net/artwork/exeggutor.jpg
+Farfetch'd;0;Não evolui;https://img.pokemondb.net/artwork/farfetchd.jpg
+Fearow;0;Não evolui;https://img.pokemondb.net/artwork/fearow.jpg
+Flareon;0;Não evolui;https://img.pokemondb.net/artwork/flareon.jpg
+Gastly;25;Haunter;https://img.pokemondb.net/artwork/gastly.jpg
+Geodude;25;Graveler;https://img.pokemondb.net/artwork/geodude.jpg
+Gloom;100;Vileplume;https://img.pokemondb.net/artwork/gloom.jpg
+Golbat;0;Não evolui;https://img.pokemondb.net/artwork/golbat.jpg
+Goldeen;50;Seaking;https://img.pokemondb.net/artwork/goldeen.jpg
+Golduck;0;Não evolui;https://img.pokemondb.net/artwork/golduck.jpg
+Graveler;100;Golem;https://img.pokemondb.net/artwork/graveler.jpg
+Grimer;50;Muk;https://img.pokemondb.net/artwork/grimer.jpg
+Growlithe;50;Arcanine;https://img.pokemondb.net/artwork/growlithe.jpg
+Gyarados;0;Não evolui;https://img.pokemondb.net/artwork/gyarados.jpg
+Haunter;100;Gengar;https://img.pokemondb.net/artwork/haunter.jpg
+Hitmonchan;0;Não evolui;https://img.pokemondb.net/artwork/hitmonchan.jpg
+Hitmonlee;0;Não evolui;https://img.pokemondb.net/artwork/hitmonlee.jpg
+Horsea;50;Seadra;https://img.pokemondb.net/artwork/horsea.jpg
+Hypno;0;Não evolui;https://img.pokemondb.net/artwork/hypno.jpg
+Ivysaur;100;Venusaur;https://img.pokemondb.net/artwork/ivysaur.jpg
+Jigglypuff;50;Wigglytuff;https://img.pokemondb.net/artwork/jigglypuff.jpg
+Jolteon;0;Não evolui;https://img.pokemondb.net/artwork/jolteon.jpg
+Jynx;0;Não evolui;https://img.pokemondb.net/artwork/jynx.jpg
+Kabuto;50;Kabutops;https://img.pokemondb.net/artwork/kabuto.jpg
+Kabutops;0;Não evolui;https://img.pokemondb.net/artwork/kabutops.jpg
+Kadabra;100;Alakazam;https://img.pokemondb.net/artwork/kadabra.jpg
+Kakuna;50;Beedrill;https://img.pokemondb.net/artwork/kakuna.jpg
+Kangaskhan;0;Não evolui;https://img.pokemondb.net/artwork/kangaskhan.jpg
+Kingler;0;Não evolui;https://img.pokemondb.net/artwork/kingler.jpg
+Koffing;50;Weezing;https://img.pokemondb.net/artwork/koffing.jpg
+Krabby;50;Kingler;https://img.pokemondb.net/artwork/krabby.jpg
+Lapras;0;Não evolui;https://img.pokemondb.net/artwork/lapras.jpg
+Lickitung;0;Não evolui;https://img.pokemondb.net/artwork/lickitung.jpg
+Machoke;100;Machamp;https://img.pokemondb.net/artwork/machoke.jpg
+Machop;25;Machoke;https://img.pokemondb.net/artwork/machop.jpg
+Magikarp;400;Gyarados;https://img.pokemondb.net/artwork/magikarp.jpg
+Magmar;0;Não evolui;https://img.pokemondb.net/artwork/magmar.jpg
+Magnemite;50;Magneton;https://img.pokemondb.net/artwork/magnemite.jpg
+Magneton;0;Não evolui;https://img.pokemondb.net/artwork/magneton.jpg
+Mankey;50;Primeape;https://img.pokemondb.net/artwork/mankey.jpg
+Marowak;0;Não evolui;https://img.pokemondb.net/artwork/marowak.jpg
+Meowth;50;Persian;https://img.pokemondb.net/artwork/meowth.jpg
+Metapod;50;Butterfree;https://img.pokemondb.net/artwork/metapod.jpg
+Mew;0;Não evolui;https://img.pokemondb.net/artwork/mew.jpg
+Mewtwo;0;Não evolui;https://img.pokemondb.net/artwork/mewtwo.jpg
+Moltres;0;Não evolui;https://img.pokemondb.net/artwork/moltres.jpg
+Mr. Mime;0;Não evolui;https://img.pokemondb.net/artwork/mr-mime.jpg
+Muk;0;Não evolui;https://img.pokemondb.net/artwork/muk.jpg
+NidoranF;25;Nidorina;https://img.pokemondb.net/artwork/nidoranf.jpg
+NidoranM;25;Nidorino;https://img.pokemondb.net/artwork/nidoranm.jpg
+Nidorina;100;Nidoqueen;https://img.pokemondb.net/artwork/nidorina.jpg
+Nidorino;100;Nidoking;https://img.pokemondb.net/artwork/nidorino.jpg
+Ninetales;0;Não evolui;https://img.pokemondb.net/artwork/ninetales.jpg
+Oddish;25;Gloom;https://img.pokemondb.net/artwork/oddish.jpg
+Omanyte;50;Omastar;https://img.pokemondb.net/artwork/omanyte.jpg
+Omastar;0;Não evolui;https://img.pokemondb.net/artwork/omastar.jpg
+Onix;0;Não evolui;https://img.pokemondb.net/artwork/onix.jpg
+Paras;50;Parasect;https://img.pokemondb.net/artwork/paras.jpg
+Parasect;0;Não evolui;https://img.pokemondb.net/artwork/parasect.jpg
+Persian;0;Não evolui;https://img.pokemondb.net/artwork/persian.jpg
+Pidgeotto;50;Pidgeot;https://img.pokemondb.net/artwork/pidgeotto.jpg
+Pidgey;12;Pidgeotto;https://img.pokemondb.net/artwork/pidgey.jpg
+Pikachu;50;Raichu;https://img.pokemondb.net/artwork/pikachu.jpg
+Pinsir;0;Não evolui;https://img.pokemondb.net/artwork/pinsir.jpg
+Poliwag;25;Poliwhirl;https://img.pokemondb.net/artwork/poliwag.jpg
+Poliwhirl;100;Poliwrath;https://img.pokemondb.net/artwork/poliwhirl.jpg
+Ponyta;50;Rapidash;https://img.pokemondb.net/artwork/ponyta.jpg
+Porygon;0;Não evolui;https://img.pokemondb.net/artwork/porygon.jpg
+Primeape;0;Não evolui;https://img.pokemondb.net/artwork/primeape.jpg
+Psyduck;50;Golduck;https://img.pokemondb.net/artwork/psyduck.jpg
+Raichu;0;Não evolui;https://img.pokemondb.net/artwork/raichu.jpg
+Rapidash;0;Não evolui;https://img.pokemondb.net/artwork/rapidash.jpg
+Raticate;0;Não evolui;https://img.pokemondb.net/artwork/raticate.jpg
+Rattata;25;Raticate;https://img.pokemondb.net/artwork/rattata.jpg
+Rhydon;0;Não evolui;https://img.pokemondb.net/artwork/rhydon.jpg
+Rhyhorn;50;Rhydon;https://img.pokemondb.net/artwork/rhyhorn.jpg
+Sandshrew;50;Sandslash;https://img.pokemondb.net/artwork/sandshrew.jpg
+Sandslash;0;Não evolui;https://img.pokemondb.net/artwork/sandslash.jpg
+Scyther;0;Não evolui;https://img.pokemondb.net/artwork/scyther.jpg
+Seadra;0;Não evolui;https://img.pokemondb.net/artwork/seadra.jpg
+Seaking;0;Não evolui;https://img.pokemondb.net/artwork/seaking.jpg
+Seel;50;Dewgong;https://img.pokemondb.net/artwork/seel.jpg
+Shellder;50;Cloyster;https://img.pokemondb.net/artwork/shellder.jpg
+Slowbro;0;Não evolui;https://img.pokemondb.net/artwork/slowbro.jpg
+Slowpoke;50;Slowbro;https://img.pokemondb.net/artwork/slowpoke.jpg
+Snorlax;0;Não evolui;https://img.pokemondb.net/artwork/snorlax.jpg
+Spearow;50;Fearow;https://img.pokemondb.net/artwork/spearow.jpg
+Squirtle;25;Wartortle;https://img.pokemondb.net/artwork/squirtle.jpg
+Starmie;0;Não evolui;https://img.pokemondb.net/artwork/starmie.jpg
+Staryu;50;Starmie;https://img.pokemondb.net/artwork/staryu.jpg
+Tangela;0;Não evolui;https://img.pokemondb.net/artwork/tangela.jpg
+Tauros;0;Não evolui;https://img.pokemondb.net/artwork/tauros.jpg
+Tentacool;50;Tentacruel;https://img.pokemondb.net/artwork/tentacool.jpg
+Tentacruel;0;Não evolui;https://img.pokemondb.net/artwork/tentacruel.jpg
+Vaporeon;0;Não evolui;https://img.pokemondb.net/artwork/vaporeon.jpg
+Venomoth;0;Não evolui;https://img.pokemondb.net/artwork/venomoth.jpg
+Venonat;50;Venomoth;https://img.pokemondb.net/artwork/venonat.jpg
+Voltorb;50;Electrode;https://img.pokemondb.net/artwork/voltorb.jpg
+Vulpix;50;Ninetales;https://img.pokemondb.net/artwork/vulpix.jpg
+Wartortle;100;Blastoise;https://img.pokemondb.net/artwork/wartortle.jpg
+Weedle;12;Kakuna;https://img.pokemondb.net/artwork/weedle.jpg
+Weepinbell;100;Victreebel;https://img.pokemondb.net/artwork/weepinbell.jpg
+Weezing;0;Não evolui;https://img.pokemondb.net/artwork/weezing.jpg
+Wigglytuff;0;Não evolui;https://img.pokemondb.net/artwork/wigglytuff.jpg
+Zapdos;0;Não evolui;https://img.pokemondb.net/artwork/zapdos.jpg
+Zubat;50;Golbat;https://img.pokemondb.net/artwork/zubat.jpg

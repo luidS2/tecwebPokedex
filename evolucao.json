@@ -1,0 +1,824 @@
+[
+  {
+    "Name": "abra",
+    "Lvl": 25,
+    "Evolution": "Kadabra",
+    "Image": "https://img.pokemondb.net/artwork/abra.jpg"
+  },
+  {
+    "Name": "aerodactyl",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/aerodactyl.jpg"
+  },
+  {
+    "Name": "arbok",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/arbok.jpg"
+  },
+  {
+    "Name": "arcanine",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/arcanine.jpg"
+  },
+  {
+    "Name": "articuno",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/articuno.jpg"
+  },
+  {
+    "Name": "bellsprout",
+    "Lvl": 25,
+    "Evolution": "Weepinbell",
+    "Image": "https://img.pokemondb.net/artwork/bellsprout.jpg"
+  },
+  {
+    "Name": "bulbasaur",
+    "Lvl": 25,
+    "Evolution": "Ivysaur",
+    "Image": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+  },
+  {
+    "Name": "caterpie",
+    "Lvl": 12,
+    "Evolution": "Metapod",
+    "Image": "https://img.pokemondb.net/artwork/caterpie.jpg"
+  },
+  {
+    "Name": "chansey",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/chansey.jpg"
+  },
+  {
+    "Name": "charmander",
+    "Lvl": 25,
+    "Evolution": "Charmeleon",
+    "Image": "https://img.pokemondb.net/artwork/charmander.jpg"
+  },
+  {
+    "Name": "charmeleon",
+    "Lvl": 100,
+    "Evolution": "Charizard",
+    "Image": "https://img.pokemondb.net/artwork/charmeleon.jpg"
+  },
+  {
+    "Name": "clefable",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/clefable.jpg"
+  },
+  {
+    "Name": "clefairy",
+    "Lvl": 50,
+    "Evolution": "Clefable",
+    "Image": "https://img.pokemondb.net/artwork/clefairy.jpg"
+  },
+  {
+    "Name": "cloyster",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/cloyster.jpg"
+  },
+  {
+    "Name": "cubone",
+    "Lvl": 50,
+    "Evolution": "Marowak",
+    "Image": "https://img.pokemondb.net/artwork/cubone.jpg"
+  },
+  {
+    "Name": "dewgong",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/dewgong.jpg"
+  },
+  {
+    "Name": "diglett",
+    "Lvl": 50,
+    "Evolution": "Dugtrio",
+    "Image": "https://img.pokemondb.net/artwork/diglett.jpg"
+  },
+  {
+    "Name": "ditto",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/ditto.jpg"
+  },
+  {
+    "Name": "dodrio",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/dodrio.jpg"
+  },
+  {
+    "Name": "doduo",
+    "Lvl": 50,
+    "Evolution": "Dodrio",
+    "Image": "https://img.pokemondb.net/artwork/doduo.jpg"
+  },
+  {
+    "Name": "dragonair",
+    "Lvl": 100,
+    "Evolution": "Dragonite",
+    "Image": "https://img.pokemondb.net/artwork/dragonair.jpg"
+  },
+  {
+    "Name": "dratini",
+    "Lvl": 25,
+    "Evolution": "Dragonair",
+    "Image": "https://img.pokemondb.net/artwork/dratini.jpg"
+  },
+  {
+    "Name": "drowzee",
+    "Lvl": 50,
+    "Evolution": "Hypno",
+    "Image": "https://img.pokemondb.net/artwork/drowzee.jpg"
+  },
+  {
+    "Name": "dugtrio",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/dugtrio.jpg"
+  },
+  {
+    "Name": "eevee",
+    "Lvl": 25,
+    "Evolution": "Vaporeon",
+    "Image": "https://img.pokemondb.net/artwork/eevee.jpg"
+  },
+  {
+    "Name": "eevee",
+    "Lvl": 25,
+    "Evolution": "Jolteon",
+    "Image": "https://img.pokemondb.net/artwork/eevee.jpg"
+  },
+  {
+    "Name": "eevee",
+    "Lvl": 25,
+    "Evolution": "Flareon",
+    "Image": "https://img.pokemondb.net/artwork/eevee.jpg"
+  },
+  {
+    "Name": "ekans",
+    "Lvl": 50,
+    "Evolution": "Arbok",
+    "Image": "https://img.pokemondb.net/artwork/ekans.jpg"
+  },
+  {
+    "Name": "electabuzz",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/electabuzz.jpg"
+  },
+  {
+    "Name": "electrode",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/electrode.jpg"
+  },
+  {
+    "Name": "exeggcute",
+    "Lvl": 50,
+    "Evolution": "Exeggutor",
+    "Image": "https://img.pokemondb.net/artwork/exeggcute.jpg"
+  },
+  {
+    "Name": "exeggutor",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/exeggutor.jpg"
+  },
+  {
+    "Name": "farfetch'd",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/farfetchd.jpg"
+  },
+  {
+    "Name": "fearow",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/fearow.jpg"
+  },
+  {
+    "Name": "flareon",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/flareon.jpg"
+  },
+  {
+    "Name": "gastly",
+    "Lvl": 25,
+    "Evolution": "Haunter",
+    "Image": "https://img.pokemondb.net/artwork/gastly.jpg"
+  },
+  {
+    "Name": "geodude",
+    "Lvl": 25,
+    "Evolution": "Graveler",
+    "Image": "https://img.pokemondb.net/artwork/geodude.jpg"
+  },
+  {
+    "Name": "gloom",
+    "Lvl": 100,
+    "Evolution": "Vileplume",
+    "Image": "https://img.pokemondb.net/artwork/gloom.jpg"
+  },
+  {
+    "Name": "golbat",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/golbat.jpg"
+  },
+  {
+    "Name": "goldeen",
+    "Lvl": 50,
+    "Evolution": "Seaking",
+    "Image": "https://img.pokemondb.net/artwork/goldeen.jpg"
+  },
+  {
+    "Name": "golduck",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/golduck.jpg"
+  },
+  {
+    "Name": "graveler",
+    "Lvl": 100,
+    "Evolution": "Golem",
+    "Image": "https://img.pokemondb.net/artwork/graveler.jpg"
+  },
+  {
+    "Name": "grimer",
+    "Lvl": 50,
+    "Evolution": "Muk",
+    "Image": "https://img.pokemondb.net/artwork/grimer.jpg"
+  },
+  {
+    "Name": "growlithe",
+    "Lvl": 50,
+    "Evolution": "Arcanine",
+    "Image": "https://img.pokemondb.net/artwork/growlithe.jpg"
+  },
+  {
+    "Name": "gyarados",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/gyarados.jpg"
+  },
+  {
+    "Name": "haunter",
+    "Lvl": 100,
+    "Evolution": "Gengar",
+    "Image": "https://img.pokemondb.net/artwork/haunter.jpg"
+  },
+  {
+    "Name": "hitmonchan",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/hitmonchan.jpg"
+  },
+  {
+    "Name": "hitmonlee",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/hitmonlee.jpg"
+  },
+  {
+    "Name": "horsea",
+    "Lvl": 50,
+    "Evolution": "Seadra",
+    "Image": "https://img.pokemondb.net/artwork/horsea.jpg"
+  },
+  {
+    "Name": "hypno",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/hypno.jpg"
+  },
+  {
+    "Name": "ivysaur",
+    "Lvl": 100,
+    "Evolution": "Venusaur",
+    "Image": "https://img.pokemondb.net/artwork/ivysaur.jpg"
+  },
+  {
+    "Name": "jigglypuff",
+    "Lvl": 50,
+    "Evolution": "Wigglytuff",
+    "Image": "https://img.pokemondb.net/artwork/jigglypuff.jpg"
+  },
+  {
+    "Name": "jolteon",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/jolteon.jpg"
+  },
+  {
+    "Name": "jynx",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/jynx.jpg"
+  },
+  {
+    "Name": "kabuto",
+    "Lvl": 50,
+    "Evolution": "Kabutops",
+    "Image": "https://img.pokemondb.net/artwork/kabuto.jpg"
+  },
+  {
+    "Name": "kabutops",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/kabutops.jpg"
+  },
+  {
+    "Name": "kadabra",
+    "Lvl": 100,
+    "Evolution": "Alakazam",
+    "Image": "https://img.pokemondb.net/artwork/kadabra.jpg"
+  },
+  {
+    "Name": "kakuna",
+    "Lvl": 50,
+    "Evolution": "Beedrill",
+    "Image": "https://img.pokemondb.net/artwork/kakuna.jpg"
+  },
+  {
+    "Name": "kangaskhan",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/kangaskhan.jpg"
+  },
+  {
+    "Name": "kingler",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/kingler.jpg"
+  },
+  {
+    "Name": "koffing",
+    "Lvl": 50,
+    "Evolution": "Weezing",
+    "Image": "https://img.pokemondb.net/artwork/koffing.jpg"
+  },
+  {
+    "Name": "krabby",
+    "Lvl": 50,
+    "Evolution": "Kingler",
+    "Image": "https://img.pokemondb.net/artwork/krabby.jpg"
+  },
+  {
+    "Name": "lapras",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/lapras.jpg"
+  },
+  {
+    "Name": "lickitung",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/lickitung.jpg"
+  },
+  {
+    "Name": "machoke",
+    "Lvl": 100,
+    "Evolution": "Machamp",
+    "Image": "https://img.pokemondb.net/artwork/machoke.jpg"
+  },
+  {
+    "Name": "machop",
+    "Lvl": 25,
+    "Evolution": "Machoke",
+    "Image": "https://img.pokemondb.net/artwork/machop.jpg"
+  },
+  {
+    "Name": "magikarp",
+    "Lvl": 400,
+    "Evolution": "Gyarados",
+    "Image": "https://img.pokemondb.net/artwork/magikarp.jpg"
+  },
+  {
+    "Name": "magmar",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/magmar.jpg"
+  },
+  {
+    "Name": "magnemite",
+    "Lvl": 50,
+    "Evolution": "Magneton",
+    "Image": "https://img.pokemondb.net/artwork/magnemite.jpg"
+  },
+  {
+    "Name": "magneton",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/magneton.jpg"
+  },
+  {
+    "Name": "mankey",
+    "Lvl": 50,
+    "Evolution": "Primeape",
+    "Image": "https://img.pokemondb.net/artwork/mankey.jpg"
+  },
+  {
+    "Name": "marowak",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/marowak.jpg"
+  },
+  {
+    "Name": "meowth",
+    "Lvl": 50,
+    "Evolution": "Persian",
+    "Image": "https://img.pokemondb.net/artwork/meowth.jpg"
+  },
+  {
+    "Name": "metapod",
+    "Lvl": 50,
+    "Evolution": "Butterfree",
+    "Image": "https://img.pokemondb.net/artwork/metapod.jpg"
+  },
+  {
+    "Name": "mew",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/mew.jpg"
+  },
+  {
+    "Name": "mewtwo",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/mewtwo.jpg"
+  },
+  {
+    "Name": "moltres",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/moltres.jpg"
+  },
+  {
+    "Name": "mr. mime",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/mr-mime.jpg"
+  },
+  {
+    "Name": "muk",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/muk.jpg"
+  },
+  {
+    "Name": "nidoranf",
+    "Lvl": 25,
+    "Evolution": "Nidorina",
+    "Image": "https://img.pokemondb.net/artwork/nidoranf.jpg"
+  },
+  {
+    "Name": "nidoranm",
+    "Lvl": 25,
+    "Evolution": "Nidorino",
+    "Image": "https://img.pokemondb.net/artwork/nidoranm.jpg"
+  },
+  {
+    "Name": "nidorina",
+    "Lvl": 100,
+    "Evolution": "Nidoqueen",
+    "Image": "https://img.pokemondb.net/artwork/nidorina.jpg"
+  },
+  {
+    "Name": "nidorino",
+    "Lvl": 100,
+    "Evolution": "Nidoking",
+    "Image": "https://img.pokemondb.net/artwork/nidorino.jpg"
+  },
+  {
+    "Name": "ninetales",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/ninetales.jpg"
+  },
+  {
+    "Name": "oddish",
+    "Lvl": 25,
+    "Evolution": "Gloom",
+    "Image": "https://img.pokemondb.net/artwork/oddish.jpg"
+  },
+  {
+    "Name": "omanyte",
+    "Lvl": 50,
+    "Evolution": "Omastar",
+    "Image": "https://img.pokemondb.net/artwork/omanyte.jpg"
+  },
+  {
+    "Name": "omastar",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/omastar.jpg"
+  },
+  {
+    "Name": "onix",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/onix.jpg"
+  },
+  {
+    "Name": "paras",
+    "Lvl": 50,
+    "Evolution": "Parasect",
+    "Image": "https://img.pokemondb.net/artwork/paras.jpg"
+  },
+  {
+    "Name": "parasect",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/parasect.jpg"
+  },
+  {
+    "Name": "persian",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/persian.jpg"
+  },
+  {
+    "Name": "pidgeotto",
+    "Lvl": 50,
+    "Evolution": "Pidgeot",
+    "Image": "https://img.pokemondb.net/artwork/pidgeotto.jpg"
+  },
+  {
+    "Name": "pidgey",
+    "Lvl": 12,
+    "Evolution": "Pidgeotto",
+    "Image": "https://img.pokemondb.net/artwork/pidgey.jpg"
+  },
+  {
+    "Name": "pikachu",
+    "Lvl": 50,
+    "Evolution": "Raichu",
+    "Image": "https://img.pokemondb.net/artwork/pikachu.jpg"
+  },
+  {
+    "Name": "pinsir",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/pinsir.jpg"
+  },
+  {
+    "Name": "poliwag",
+    "Lvl": 25,
+    "Evolution": "Poliwhirl",
+    "Image": "https://img.pokemondb.net/artwork/poliwag.jpg"
+  },
+  {
+    "Name": "poliwhirl",
+    "Lvl": 100,
+    "Evolution": "Poliwrath",
+    "Image": "https://img.pokemondb.net/artwork/poliwhirl.jpg"
+  },
+  {
+    "Name": "ponyta",
+    "Lvl": 50,
+    "Evolution": "Rapidash",
+    "Image": "https://img.pokemondb.net/artwork/ponyta.jpg"
+  },
+  {
+    "Name": "porygon",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/porygon.jpg"
+  },
+  {
+    "Name": "primeape",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/primeape.jpg"
+  },
+  {
+    "Name": "psyduck",
+    "Lvl": 50,
+    "Evolution": "Golduck",
+    "Image": "https://img.pokemondb.net/artwork/psyduck.jpg"
+  },
+  {
+    "Name": "raichu",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/raichu.jpg"
+  },
+  {
+    "Name": "rapidash",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/rapidash.jpg"
+  },
+  {
+    "Name": "raticate",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/raticate.jpg"
+  },
+  {
+    "Name": "rattata",
+    "Lvl": 25,
+    "Evolution": "Raticate",
+    "Image": "https://img.pokemondb.net/artwork/rattata.jpg"
+  },
+  {
+    "Name": "rhydon",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/rhydon.jpg"
+  },
+  {
+    "Name": "rhyhorn",
+    "Lvl": 50,
+    "Evolution": "Rhydon",
+    "Image": "https://img.pokemondb.net/artwork/rhyhorn.jpg"
+  },
+  {
+    "Name": "sandshrew",
+    "Lvl": 50,
+    "Evolution": "Sandslash",
+    "Image": "https://img.pokemondb.net/artwork/sandshrew.jpg"
+  },
+  {
+    "Name": "sandslash",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/sandslash.jpg"
+  },
+  {
+    "Name": "scyther",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/scyther.jpg"
+  },
+  {
+    "Name": "seadra",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/seadra.jpg"
+  },
+  {
+    "Name": "seaking",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/seaking.jpg"
+  },
+  {
+    "Name": "seel",
+    "Lvl": 50,
+    "Evolution": "Dewgong",
+    "Image": "https://img.pokemondb.net/artwork/seel.jpg"
+  },
+  {
+    "Name": "shellder",
+    "Lvl": 50,
+    "Evolution": "Cloyster",
+    "Image": "https://img.pokemondb.net/artwork/shellder.jpg"
+  },
+  {
+    "Name": "slowbro",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/slowbro.jpg"
+  },
+  {
+    "Name": "slowpoke",
+    "Lvl": 50,
+    "Evolution": "Slowbro",
+    "Image": "https://img.pokemondb.net/artwork/slowpoke.jpg"
+  },
+  {
+    "Name": "snorlax",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/snorlax.jpg"
+  },
+  {
+    "Name": "spearow",
+    "Lvl": 50,
+    "Evolution": "Fearow",
+    "Image": "https://img.pokemondb.net/artwork/spearow.jpg"
+  },
+  {
+    "Name": "squirtle",
+    "Lvl": 25,
+    "Evolution": "Wartortle",
+    "Image": "https://img.pokemondb.net/artwork/squirtle.jpg"
+  },
+  {
+    "Name": "starmie",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/starmie.jpg"
+  },
+  {
+    "Name": "staryu",
+    "Lvl": 50,
+    "Evolution": "Starmie",
+    "Image": "https://img.pokemondb.net/artwork/staryu.jpg"
+  },
+  {
+    "Name": "tangela",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/tangela.jpg"
+  },
+  {
+    "Name": "tauros",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/tauros.jpg"
+  },
+  {
+    "Name": "tentacool",
+    "Lvl": 50,
+    "Evolution": "Tentacruel",
+    "Image": "https://img.pokemondb.net/artwork/tentacool.jpg"
+  },
+  {
+    "Name": "tentacruel",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/tentacruel.jpg"
+  },
+  {
+    "Name": "vaporeon",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/vaporeon.jpg"
+  },
+  {
+    "Name": "venomoth",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/venomoth.jpg"
+  },
+  {
+    "Name": "venonat",
+    "Lvl": 50,
+    "Evolution": "Venomoth",
+    "Image": "https://img.pokemondb.net/artwork/venonat.jpg"
+  },
+  {
+    "Name": "voltorb",
+    "Lvl": 50,
+    "Evolution": "Electrode",
+    "Image": "https://img.pokemondb.net/artwork/voltorb.jpg"
+  },
+  {
+    "Name": "vulpix",
+    "Lvl": 50,
+    "Evolution": "Ninetales",
+    "Image": "https://img.pokemondb.net/artwork/vulpix.jpg"
+  },
+  {
+    "Name": "wartortle",
+    "Lvl": 100,
+    "Evolution": "Blastoise",
+    "Image": "https://img.pokemondb.net/artwork/wartortle.jpg"
+  },
+  {
+    "Name": "weedle",
+    "Lvl": 12,
+    "Evolution": "Kakuna",
+    "Image": "https://img.pokemondb.net/artwork/weedle.jpg"
+  },
+  {
+    "Name": "weepinbell",
+    "Lvl": 100,
+    "Evolution": "Victreebel",
+    "Image": "https://img.pokemondb.net/artwork/weepinbell.jpg"
+  },
+  {
+    "Name": "weezing",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/weezing.jpg"
+  },
+  {
+    "Name": "wigglytuff",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/wigglytuff.jpg"
+  },
+  {
+    "Name": "zapdos",
+    "Lvl": 0,
+    "Evolution": "Não evolui",
+    "Image": "https://img.pokemondb.net/artwork/zapdos.jpg"
+  },
+  {
+    "Name": "zubat",
+    "Lvl": 50,
+    "Evolution": "Golbat",
+    "Image": "https://img.pokemondb.net/artwork/zubat.jpg"
+  }
+]
