@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  img(src= pokemon.Image, class="image1")
+  img(src= "https://cdn-images-1.medium.com/max/1600/1*HmJQ3auSA_TivUEALJNq1Q.png", class="image2")
+
+  div(class="div-info")
+    label Nome #{pokemon.Name}
+    br
+    label Nível #{pokemon.Lvl}
+    br
+    label Evolução #{pokemon.Evolution}
+
+  a(class="anterior",href=pokemon.Anterior) Anterior
+  a(class="proximo",href=pokemon.Proximo) Próximo

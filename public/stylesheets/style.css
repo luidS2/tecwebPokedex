@@ -1,0 +1,43 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+img {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+.image1{
+    width: 254px;
+    height: 174px;
+    position: absolute;
+    top: 176px;
+    left: 84px;
+    z-index: 1;
+}
+.div-info {
+    position: absolute;
+    top: 218px;
+    left: 489px;
+    color: white;
+}
+
+.anterior {
+    position: absolute;
+    top: 461px;
+    left: 473px;
+    color: white;
+    padding: 30px;
+}
+
+.proximo {
+    position: absolute;
+    top: 461px;
+    left: 604px;
+    color: white;
+    padding: 30px;
+}
