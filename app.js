@@ -72,16 +72,13 @@ app.get('/:id', function (req, res) {
                 '<br>' +
                 'Lvl: ' + user.Lvl +
                 '<br>' +
-                'Evolution: ' + user.Evolution +
+                'Evolution: ' + user.Evolution +'<a href= ' + go + '>GoToEvolution</a>'+
                 '</div>' +
                 '<div class="ant">' +
                 '<a href= ' + ant + '>Anterior</a>' +
                 '</div>' +
                 '<div class="prox">' +
                 '<a href= ' + prox + '>Proximo</a>' +
-                '</div>' +
-		'<a href= ' + go + '>GoToEvolution</a>' +
-                '</div>' +
                 '</body></html>');
                 
     });
