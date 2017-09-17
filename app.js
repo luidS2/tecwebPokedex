@@ -72,7 +72,8 @@ app.get('/:id', function (req, res) {
                 '<br>' +
                 'Lvl: ' + user.Lvl +
                 '<br>' +
-                'Evolution: ' + user.Evolution +'<a href= ' + go + '>GoToEvolution</a>'+
+                'Evolution: ' + user.Evolution +
+		'<a href= ' + go + '>GoToEvolution</a>'+
                 '</div>' +
                 '<div class="ant">' +
                 '<a href= ' + ant + '>Anterior</a>' +
