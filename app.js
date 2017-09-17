@@ -83,7 +83,7 @@ app.get('/:id', function (req, res) {
 		'<a href= ' + go + '>GoToEvolution</a>' +
                 '</div>' +
                 '</body></html>');
-                '</body></html>');
+                
     });
     console.log("deu");
 })
