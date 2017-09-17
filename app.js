@@ -76,6 +76,7 @@ app.get('/:id', function (req, res) {
 		'<a href= ' + go + '>GoToEvolution</a>'+
                 '</div>' +
                 '<div class="ant">' +
+		'<br>'+   
                 '<a href= ' + ant + '>Anterior</a>' +
                 '</div>' +
                 '<div class="prox">' +
