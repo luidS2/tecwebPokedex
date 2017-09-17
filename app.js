@@ -27,7 +27,7 @@ app.get('/pokedex', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-    res.redirect("/abra");
+    res.redirect("/charmander");
 })
 
 app.get('/:id', function (req, res) {
@@ -38,8 +38,10 @@ app.get('/:id', function (req, res) {
         var user = null;
         var ant = null;
         var prox = null;
+		var go=null;
         for (var i = 0; i < users.length; i++) {
             if (users[i].Name === req.params.id) {
+				go = user.Evolution.toLowerCase();
                 user = users[i];
                 if (i > 0)
                     ant = users[(i - 1)].Name;
@@ -50,7 +52,7 @@ app.get('/:id', function (req, res) {
         }
         console.log(user);
         if (user === null)
-            res.redirect("/abra");
+            res.redirect("/charmander");
         else
             res.end('<!DOCTYPE html><html><head>' +
                 '<style>' +
@@ -59,6 +61,7 @@ app.get('/:id', function (req, res) {
                 '.dados{ position: absolute;top: 191px;left: 504px;}' +
                 '.ant{position: absolute;top: 491px;left: 503px;}' +
                 '.prox{position: absolute;top: 491px;left: 628px;}' +
+				'.go{position: absolute;top: 491px;left: 125px;}' +
                 '</style>' +
                 '<link rel="stylesheet" type="text/css" href="index.css">' +
                 '</head><body><div>' +
@@ -76,6 +79,9 @@ app.get('/:id', function (req, res) {
                 '</div>' +
                 '<div class="prox">' +
                 '<a href= ' + prox + '>Proximo</a>' +
+                '</div>' +
+				'<div class="go">' +
+                '<a href= ' + go + '>GoToEvolution</a>' +
                 '</div>' +
                 '</body></html>');
     });
